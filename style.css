@@ -1,0 +1,99 @@
+* {
+    margin: 0;
+    padding: 0;
+    outline: none;
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+}
+
+body {
+    background-color: black;
+}
+
+.container {
+    background: #f1f1f1;
+    max-width: 600px;
+    min-width: 380px;
+    margin: auto;
+    padding: 10px;
+    min-height: 100vh;
+}
+
+[alt="yoga-app-logo"] {
+    display: block;
+    margin: 195px auto 122px auto;
+}
+
+.cap-info {
+    display: block;
+    margin: 21px auto;
+    border: none;
+    width: 341px;
+    height: 46px;
+    padding: 0 20px;
+    font-size: 13px;
+    line-height: 15px;
+    color: #969696;
+    background: #F7F7F7;
+    box-shadow: -4px 4px 18px rgba(0, 0, 0, 0.09);
+    border-radius: 10px;
+}
+
+.forgot-password {
+    display: block;
+    text-align: right;
+    width: 320px;
+    margin: auto;
+    font-size: 13px;
+    line-height: 15px;
+    color: #000;
+    text-decoration: none;
+}
+
+.logIn-button {
+    display: block;
+    margin: 38px auto 21px auto;
+    width: 133px;
+    height: 46px;
+    background: #323232;
+    box-shadow: -4px 4px 18px rgba(0, 0, 0, 0.09);
+    border-radius: 10px;
+    border: none;
+    color: white;
+    font-size: 15px;
+    line-height: 18px;
+}
+
+.signup-text {
+    text-align: center;
+    color: #969696;
+    font-size: 15px;
+    line-height: 18px;
+    margin-bottom: 62px;
+}
+
+.signup-text > a {
+    color: #323232;
+    text-decoration: none;
+}
+
+.signup-text > a:hover, a:active {
+    text-shadow: 0 0 3px #32323273;
+}
+
+.or {
+    font-weight: 900;
+    font-size: 18px;
+    line-height: 21px;
+    text-align: center;
+    color: #000;
+    margin-bottom: 18.5px;
+}
+
+.links {
+    text-align: center;
+}
+
+.links > a {
+    margin: 0 16px;
+}
