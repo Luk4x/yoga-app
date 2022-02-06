@@ -12,7 +12,6 @@ body {
 
 .container {
     background: #f1f1f1;
-    max-width: 600px;
     min-width: 380px;
     margin: auto;
     padding: 10px;
@@ -22,6 +21,7 @@ body {
 [alt="yoga-app-logo"] {
     display: block;
     margin: 195px auto 122px auto;
+    transform: scale(1.75);
 }
 
 .cap-info {

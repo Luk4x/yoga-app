@@ -12,8 +12,7 @@ body {
 
 main {
     background-color: #f1f1f1;
-    max-width: 600px;
-    min-width: 400px;
+    min-width: 380px;
     margin: auto;
     padding: 10px;
     min-height: 100vh;
@@ -22,6 +21,7 @@ main {
 [alt="meditating-image"] {
     display: block;
     margin: 142px auto 104px auto;
+    transform: scale(1.2);
 }
 
 .dots {
