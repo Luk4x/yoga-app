@@ -1,10 +1,14 @@
 # Yoga App
 
 ## About
-LogIn/SignUp Yoga interface using HTML and CSS.
+Yoga App Intro page and LogIn/SignUp interface and navigation system using HTML and CSS.
 
 ## Result
-<img src="./images/result.png" alt="challenge-result">
+<img src="./assets/result/result3.png" alt="result">
+<div align="center">
+  <img src="./assets/result/result2.png" alt="result">
+  <img src="./assets/result/result1.png" alt="result">
+</div>
 Access the project <a href="https://luk4x.github.io/DevClub-project-YogaApp/">HERE</a>
 
 ## 🤝 Contributors Linkedin
