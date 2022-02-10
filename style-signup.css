@@ -21,6 +21,11 @@ main {
 [alt="meditating-image"] {
     display: block;
     margin: 142px auto 104px auto;
+    transform: scale(1);
+    transition: all .3s ease-in-out;
+}
+
+[alt="meditating-image"]:hover, [alt="meditating-image"]:active {
     transform: scale(1.2);
 }
 

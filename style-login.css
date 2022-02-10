@@ -21,6 +21,11 @@ body {
 [alt="yoga-app-logo"] {
     display: block;
     margin: 195px auto 122px auto;
+    transform: scale(1.5);
+    transition: all .3s ease-in-out;
+}
+
+[alt="yoga-app-logo"]:hover, [alt="yoga-app-logo"]:active {
     transform: scale(1.75);
 }
 
@@ -82,7 +87,7 @@ body {
     text-decoration: none;
 }
 
-.signup-text > a:hover, a:active {
+.signup-text > a:hover, .signup-text > a:active {
     text-shadow: 0 0 3px #32323273;
 }
 
@@ -107,6 +112,6 @@ body {
     transition: all .3s ease-in-out;
 }
 
-.links img:hover {
+.links img:hover, .links img:active {
     transform: translateY(5px);
 }
