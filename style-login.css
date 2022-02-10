@@ -102,3 +102,11 @@ body {
 .links > a {
     margin: 0 16px;
 }
+
+.links img {
+    transition: all .3s ease-in-out;
+}
+
+.links img:hover {
+    transform: translateY(5px);
+}
