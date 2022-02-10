@@ -1,7 +1,8 @@
 # Yoga App
 
 ## About
-YogaApp Intro, LogIn and SignUp pages created with HTML and CSS. I also made a basic navigation system between them and added some animations.
+YogaApp was a <DevClub/> challenge created with HTML and CSS in which I made some improvements.
+I made the LogIn and SignUp pages as requested. But I also decided to make an intro page, a basic navigation system between pages, and I added some animations.
 
 ## Result
 <img src="./assets/result/result3.png" alt="result">
