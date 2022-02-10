@@ -11,7 +11,7 @@ YogaApp Intro, LogIn and SignUp pages created with HTML and CSS. I also made a b
 </div>
 Access the project <a href="https://luk4x.github.io/DevClub-project-YogaApp/">HERE</a>
 
-## 🤝 Contributors Contact
+## Contributors Contact
 <table>
   <tr>
     <td align="center">
