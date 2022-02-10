@@ -1,7 +1,7 @@
 # Yoga App
 
 ## About
-Yoga App Intro page and LogIn/SignUp interface and navigation system using HTML and CSS.
+YogaApp Intro, LogIn and SignUp pages created with HTML and CSS. I also made a basic navigation system between them and added some animations.
 
 ## Result
 <img src="./assets/result/result3.png" alt="result">
@@ -11,7 +11,7 @@ Yoga App Intro page and LogIn/SignUp interface and navigation system using HTML 
 </div>
 Access the project <a href="https://luk4x.github.io/DevClub-project-YogaApp/">HERE</a>
 
-## 🤝 Contributors Linkedin
+## 🤝 Contributors Contact
 <table>
   <tr>
     <td align="center">
