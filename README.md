@@ -1,7 +1,7 @@
 # Yoga App
 
 ## About
-YogaApp was a <DevClub/> challenge created with HTML and CSS in which I made some improvements.
+YogaApp was a <a href="https://www.linkedin.com/school/code-club-devs/" target="_blank">&lt;DevClub/&gt;</a> challenge created with HTML and CSS in which I made some improvements.
 I made the LogIn and SignUp pages as requested. But I also decided to make an intro page, a basic navigation system between pages, and I added some animations.
 
 ## Result
