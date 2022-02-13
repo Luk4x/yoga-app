@@ -6,7 +6,7 @@ I made the LogIn and SignUp pages as requested. But I also decided to make an in
 
 ## Result
 <p align="center">
-  <video src="https://user-images.githubusercontent.com/86276393/153721710-6b084d59-457d-4ad2-9e80-db01a9e5188c.mp4">
+  <video src="https://user-images.githubusercontent.com/86276393/153770640-61d6efd8-9719-4bd0-bd0f-5d03e6d1ebe5.mp4">
 </p>
 Access the project <a href="https://luk4x.github.io/DevClub-project-YogaApp/">HERE</a>
 
