@@ -22,7 +22,7 @@ body {
     display: block;
     margin: 195px auto 122px auto;
     transform: scale(1.5);
-    transition: all .3s ease-in-out;
+    transition: all .5s ease-in-out;
 }
 
 [alt="yoga-app-logo"]:hover, [alt="yoga-app-logo"]:active {

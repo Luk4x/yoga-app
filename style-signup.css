@@ -22,7 +22,7 @@ main {
     display: block;
     margin: 142px auto 104px auto;
     transform: scale(1);
-    transition: all .3s ease-in-out;
+    transition: all .5s ease-in-out;
 }
 
 [alt="meditating-image"]:hover, [alt="meditating-image"]:active {
