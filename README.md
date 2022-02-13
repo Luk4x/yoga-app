@@ -1,17 +1,16 @@
 # Yoga App
 
 ## About
-Yoga App Intro page and LogIn/SignUp interface and navigation system using HTML and CSS.
+YogaApp was a <a href="https://www.linkedin.com/school/code-club-devs/" target="_blank">&lt;DevClub/&gt;</a> challenge created with HTML and CSS in which I made some improvements.
+I made the LogIn and SignUp pages as requested. But I also decided to make an intro page, a basic navigation system between pages, and I added some animations.
 
 ## Result
-<img src="./assets/result/result3.png" alt="result">
-<div align="center">
-  <img src="./assets/result/result2.png" alt="result">
-  <img src="./assets/result/result1.png" alt="result">
-</div>
+<p align="center">
+  <video src="https://user-images.githubusercontent.com/86276393/153721710-6b084d59-457d-4ad2-9e80-db01a9e5188c.mp4">
+</p>
 Access the project <a href="https://luk4x.github.io/DevClub-project-YogaApp/">HERE</a>
 
-## 🤝 Contributors Linkedin
+## Contributors Contact
 <table>
   <tr>
     <td align="center">
