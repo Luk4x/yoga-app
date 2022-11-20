@@ -72,17 +72,38 @@ After that, in the terminal:
 
 ## 🤝 Contributor Contact
 
-<table>
+<table border="2">
   <tr>
     <td align="center">
-      <a href="https://www.linkedin.com/in/lucasmacielf/">
-        <img src="https://avatars.githubusercontent.com/Luk4x" width="150px;" alt="Luk4x Github Photo"/><br>
-        <sub>
-          <b>Lucas Maciel</b>
-        </sub>
-      </a>
-    </td>
-  </tr>
+      <details>
+        <summary>
+          <b><a href="https://cursos.alura.com.br/vitrinedev/lucasmacielf">Vitrine.Dev</a> 🪟</b>
+          <table>
+            <tr>
+              <td align="center">
+                <a href="https://github.com/Luk4x">
+                  <img src="https://avatars.githubusercontent.com/Luk4x" width="150px;" alt="Luk4x Github Photo"/>
+                </a>
+                <br>
+                <a href="https://www.linkedin.com/in/lucasmacielf/">
+                  <sub>
+                    <b>Lucas Maciel</b>
+                  </sub>
+                </a>
+              </td>
+            </tr>
+          </table>
+        </summary>
+
+| :placard: Vitrine.Dev | Lucas Maciel |
+| -------------  | --- |
+| :sparkles: Name        | **🧘‍♀️ Yoga App**
+| :label: Technologies | javascript, css, html
+| :camera: Img         | ![](https://user-images.githubusercontent.com/86276393/202922887-a21a47ff-7158-4b93-af78-4d78e1926857.png#vitrinedev)
+
+</details>
+</td>
+</tr>
 </table>
 
 <p align="right">
